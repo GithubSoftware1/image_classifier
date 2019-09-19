@@ -15,7 +15,7 @@ A ='Look at Camera’, B='Hand in Face (peeping), C='Bunny Ears with Left Hand',
 You can classify 4 distinct objects or postures and then see how well it classifies it. Make sure the object or postures are distinct enough to get a working model.
 I suggest you take about 10 photos of each posture and make sure they are all slightly different but in line with the class 
 
-The classifier is not saved and once you refresh of exit the browser it is reset to untrained.
+The classifier is not saved and once you refresh or exit the browser it is reset to untrained.
 
 
 
