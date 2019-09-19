@@ -11,8 +11,9 @@ You will have to allow your browser to access your Webcam and obviously you woul
 
 ## Functionality 
 There are four buttons on the webpage; A to D. You have to train the four classes in the image classifier:
-A ='Look at Camera’, B='Hand in Face (peeping), C='Bunny Ears with Left Hand', D='No one at desk' 
-You can classify 4 distinct objects or postures and then see how well it classifies it. Make sure the objects or postures are distinct enough to get a working model. Try the labels I have marked them with. 
+A ='Look at Camera’, B='Hand in Face (peeping), C='Bunny Ears with Left Hand', D='No one at desk' for example.
+You can classify 4 distinct objects or postures and then see how well it classifies it. Make sure the object or postures are distinct enough to get a working model.
+I suggest you take about 10 photos of each posture and make sure they are all slightly different but in line with the class 
 
 The classifier is not saved and once you refresh of exit the browser it is reset to untrained.
 
