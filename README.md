@@ -17,5 +17,7 @@ I suggest you take about 10 photos of each posture and make sure they are all sl
 
 The classifier is not saved and once you refresh or exit the browser it is reset to untrained.
 
+## Mechanics 
+If you are a specialist on Infer.NET or you know how the activation works, please leave comments.
 
 
