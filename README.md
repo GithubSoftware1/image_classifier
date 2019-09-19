@@ -1,4 +1,4 @@
-# Javascript image_classifier in your browser using TensorFlow 
+# Javascript image_classifier in browser with TensorFlow 
 
 ## Introduction 
 This is a very simple image classifier. What is interesting about this particular one is the fact it is done in the browser.
